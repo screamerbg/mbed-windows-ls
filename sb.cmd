@@ -1,0 +1,1 @@
+@python "c:\Program Files\myshell\sb.py" %1 %2 %3 %4
